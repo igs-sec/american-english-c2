@@ -33,12 +33,28 @@ Examples:
 - `am/is/are`: 4/4.
 - Sentence translation: 4/4.
 - Short reading comprehension: 5/5.
+- Guided self-introduction: all 6 sentences grammatically correct.
+
+## Learner's written work
+1. My name is Ivan.
+2. I am 39 years old.
+3. I live in Kazan.
+4. I am from Russia.
+5. I like to watch films.
+6. I want to learn English because I want to watch films in English.
+
+Feedback: all six sentences are correct. Natural alternative: “I like watching films.” Another concise option: “I want to learn English because I enjoy watching films in English.”
 
 ## Skill coverage
-Vocabulary, basic grammar, and short-text reading were sampled. Independent writing, listening, speaking, and pronunciation remain unassessed.
+Basic vocabulary, grammar, short-text reading, and a short guided writing task were sampled. Listening, speaking, and pronunciation remain unassessed.
 
 ## Homework
-Write 5–6 simple sentences introducing yourself. Use at least three patterns: `My name is …`, `I am …`, `I live in …`, `I am from …`, `I like …`.
+Prepare to answer these questions aloud or in writing:
+- What's your name?
+- How old are you?
+- Where are you from?
+- Where do you live?
+- What do you like doing?
 
 ## Next lesson
 Lesson 002: subject pronouns, `be` in affirmative/negative/question forms, and basic personal questions.
