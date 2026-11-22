@@ -31,6 +31,7 @@ Examples:
 ## Grammar: like and want
 - `like + verb-ing`: I like watching films.
 - `want + to + base verb`: I want to watch films in English.
+- Note: `like + to + verb` is also grammatical (e.g. I like to watch films).
 
 ## Diagnostic work completed
 - Basic vocabulary: 8/8.
@@ -38,7 +39,8 @@ Examples:
 - Sentence translation: 4/4.
 - Short reading comprehension: 5/5.
 - Guided self-introduction: all 6 sentences grammatically correct.
-- Written role-play: two correct sentences and two errors involving verb patterns.
+- Written role-play: two correct sentences and two errors involving verb patterns; corrections reviewed.
+- Verb-pattern fill-in practice: 5/5 (100%).
 
 ## Learner's written self-introduction
 1. My name is Ivan.
@@ -63,15 +65,17 @@ Corrections:
 - I like watching films. — Use `like + verb-ing` to express a preference.
 - I want to watch films in English. — Use `want + to + base verb`.
 
+## Verb-pattern practice — completed
+1. I like **watching** films. — Correct.
+2. I want **to learn** English. — Correct.
+3. I like **reading** books. — Correct.
+4. I want **to speak** English. — Correct.
+5. I like **listening** to music. — Correct.
+
+Score: 5/5 (100%).
+
 ## Skill coverage
 Basic vocabulary, grammar, short-text reading, and short written tasks were sampled. Listening, spoken speaking performance, and pronunciation remain unassessed.
-
-## Homework
-Complete a short practice set:
-1. I like ______ (watch) films.
-2. I want ______ (learn) English.
-3. I like ______ (read) books.
-4. I want ______ (speak) English.
 
 ## Next lesson
 Lesson 002: subject pronouns, `be` in affirmative/negative/question forms, and basic personal questions.
