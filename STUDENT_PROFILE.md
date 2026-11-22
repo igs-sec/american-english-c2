@@ -12,7 +12,7 @@ Reach C2 in General American English for everyday communication, work, travel, a
 - Main motivation: understand and enjoy films in English, alongside broader communication, work, travel, and education goals.
 
 ## Starting point
-- Placement: **provisional A1 (Beginner)**. Basic vocabulary, `be`, sentence translation, short-text comprehension, and a short guided self-introduction were sampled.
+- Placement: **provisional A1 (Beginner)**. Basic vocabulary, `be`, sentence translation, short-text comprehension, guided self-introduction, and a short written role-play response were sampled.
 - Prior study: a little.
 - Self-reported ability: understands and produces only very elementary English.
 - Study time: 60 minutes daily.
@@ -24,8 +24,9 @@ Reach C2 in General American English for everyday communication, work, travel, a
 - Simple sentence translation: 4/4 (100%).
 - Short reading comprehension: 5/5 (100%).
 - Guided self-introduction writing: 6/6 sentences correct (100% on this task).
+- Written role-play response: 2/4 sentences fully correct; two verb-pattern errors identified and corrected.
 
-These exercise results do not constitute CEFR certification. Listening, speaking, and pronunciation have not yet been assessed. The short guided writing task is not a comprehensive writing assessment.
+These exercise results do not constitute CEFR certification. Listening, spoken speaking performance, and pronunciation have not yet been assessed. Short guided writing tasks are not comprehensive writing assessments.
 
 ## Skill assessment
 | Skill | Status | Score |
@@ -33,9 +34,9 @@ These exercise results do not constitute CEFR certification. Listening, speaking
 | Grammar | Basic diagnostic completed | 100% on `am/is/are` task |
 | Vocabulary | Basic diagnostic completed | 100% on 8-word task |
 | Reading | Short-text diagnostic completed | 100% on 5 questions |
-| Writing | Short guided self-introduction assessed | 100% on this task (6/6) |
+| Writing | Guided self-introduction and written role-play sampled | 100% on self-introduction; 2/4 fully correct in role-play |
 | Listening | Not assessed | — |
-| Speaking | Not assessed | — |
+| Speaking | Not assessed (role-play submitted in text) | — |
 | Pronunciation | Not assessed | — |
 
 ## Preferences
