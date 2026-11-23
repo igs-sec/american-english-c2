@@ -30,3 +30,17 @@
 3. Begin guided listening and General American pronunciation practice.
 4. Assess spoken responses in an audio/oral task.
 5. Review vocabulary at 1, 3, 7, 14, and 30 days.
+
+## Follow-up diagnostic (2026-11-23)
+| Task | Result |
+|---|---:|
+| Basic vocabulary (8 items) | 8/8 — 100% |
+| `am/is/are` (4 items) | 4/4 — 100% |
+| Sentence translation (4 items) | 4/4 — 100% |
+| Short reading comprehension (5 questions) | 5/5 — 100% |
+
+- Learner reports limited prior study and only elementary comprehension/production.
+- Study availability: 60 minutes daily.
+- Goals: communication, work, travel, and education.
+- Placement: provisional A1; continue consolidating A0 foundations where needed.
+- Listening, independent writing, spoken speaking, and pronunciation were not assessed in this follow-up.
