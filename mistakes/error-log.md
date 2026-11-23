@@ -11,6 +11,13 @@
 - Explanation: After `want`, use `to + base verb`.
 - Category: verb pattern.
 
+## 2026-11-23 — Initial diagnostic
+- Basic vocabulary: 8/8 correct.
+- `am/is/are`: 4/4 correct.
+- Sentence translation: 4/4 correct.
+- Short reading comprehension: 5/5 correct.
+- No errors were observed in these specific tasks.
+
 ## Review prompt
 Complete from memory:
 1. I like ______ (watch) films.
@@ -18,4 +25,4 @@ Complete from memory:
 3. She likes ______ (read) books.
 4. They want ______ (speak) English.
 
-No recurring pattern is assumed yet; review after further practice.
+Track only errors actually produced. No recurring pattern is assumed without further evidence.
