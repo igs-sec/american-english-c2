@@ -1,52 +1,45 @@
 # Student Profile
 
-## Goals
-Reach C2 in General American English for everyday communication, work, travel, and education.
-
-## Learner information
-- Name: Ivan
-- Age: 39
-- From: Russia
-- Lives in: Kazan
-- Interests: watching films
-- Main motivation: understand and enjoy films in English, alongside broader communication, work, travel, and education goals.
+## Learning goal
+Reach C2 in General American English for communication, work, travel, and education.
 
 ## Starting point
-- Placement: **provisional A1 (Beginner)**. Basic vocabulary, `be`, sentence translation, short-text comprehension, guided self-introduction, and a short written role-play response were sampled.
-- Prior study: a little.
-- Self-reported ability: understands and produces only very elementary English.
-- Study time: 60 minutes daily.
-- Explanation language: Russian initially, with gradual increase in English.
+- Provisional placement: **A1**, with A0 foundations to review as needed.
+- Previous exposure: a little English.
+- Self-reported ability: understands and produces only elementary language.
+- Study commitment: **60 minutes per day**.
+- Explanation language: Russian initially, with a gradual transition to English.
+- Accent target: General American.
 
-## Diagnostic evidence (2026-11-22)
-- Basic vocabulary: 8/8 (100%).
-- `am / is / are`: 4/4 (100%).
-- Simple sentence translation: 4/4 (100%).
-- Short reading comprehension: 5/5 (100%).
-- Guided self-introduction writing: 6/6 sentences correct (100% on this task).
-- Written role-play response: 2/4 sentences fully correct; two verb-pattern errors identified and corrected.
+## Diagnostic evidence (2026-11-23)
+| Task | Result | Interpretation |
+|---|---:|---|
+| Basic vocabulary translation | 8/8 (100%) | All tested words recognized/produced correctly |
+| `am / is / are` selection | 4/4 (100%) | All tested choices correct |
+| Translation of simple sentences | 4/4 (100%) | All four meanings understood |
+| Short reading comprehension | 5/5 (100%) | All factual questions answered correctly |
 
-These exercise results do not constitute CEFR certification. Listening, spoken speaking performance, and pronunciation have not yet been assessed. Short guided writing tasks are not comprehensive writing assessments.
+These are task scores, not CEFR skill ratings. The sample is small and beginner-level.
 
 ## Skill assessment
-| Skill | Status | Score |
-|---|---|---:|
-| Grammar | Basic diagnostic completed | 100% on `am/is/are` task |
-| Vocabulary | Basic diagnostic completed | 100% on 8-word task |
-| Reading | Short-text diagnostic completed | 100% on 5 questions |
-| Writing | Guided self-introduction and written role-play sampled | 100% on self-introduction; 2/4 fully correct in role-play |
-| Listening | Not assessed | — |
-| Speaking | Not assessed (role-play submitted in text) | — |
-| Pronunciation | Not assessed | — |
+| Skill | Status |
+|---|---|
+| Grammar | Limited evidence: beginner `be` forms tested; broader level not assessed |
+| Vocabulary | Limited evidence: 8 basic words tested |
+| Reading | Limited evidence: one short A1-style text |
+| Writing | Not assessed |
+| Listening | Not assessed |
+| Speaking | Not assessed |
+| Pronunciation | Not assessed |
 
-## Preferences
-Interactive lessons, clear explanations, practical tasks, immediate feedback, and General American English.
+Do not assign percentages to untested skills. Establish reliable skill scores through dedicated assessments.
 
-## Follow-up diagnostic (2026-11-23)
-- Prior study: studied English a little.
-- Self-reported ability: understands and produces only very elementary English.
-- Daily study availability: 60 minutes.
-- Goals: communication, work, travel, and education.
-- Confirmed exercise results in this chat: basic vocabulary 8/8; `am/is/are` 4/4; sentence translation 4/4; short reading comprehension 5/5.
-- Placement remains **provisional A1**, with A0 foundations reviewed as needed.
-- Listening, independent writing, spoken speaking, and pronunciation remain not assessed in this diagnostic.
+## Study routine (60 minutes)
+- 10 min — spaced vocabulary review and active recall
+- 15 min — grammar in context
+- 10 min — listening and pronunciation
+- 15 min — communicative task / speaking or writing
+- 10 min — reading, error review, and lesson recap
+
+## Placement and progression
+A1 is a provisional working placement, not a certified CEFR result. Review A0 foundations where gaps appear. Advance only after a level-appropriate assessment demonstrates consistent performance across the relevant skills.
