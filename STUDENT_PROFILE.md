@@ -41,3 +41,12 @@ These exercise results do not constitute CEFR certification. Listening, spoken s
 
 ## Preferences
 Interactive lessons, clear explanations, practical tasks, immediate feedback, and General American English.
+
+## Follow-up diagnostic (2026-11-23)
+- Prior study: studied English a little.
+- Self-reported ability: understands and produces only very elementary English.
+- Daily study availability: 60 minutes.
+- Goals: communication, work, travel, and education.
+- Confirmed exercise results in this chat: basic vocabulary 8/8; `am/is/are` 4/4; sentence translation 4/4; short reading comprehension 5/5.
+- Placement remains **provisional A1**, with A0 foundations reviewed as needed.
+- Listening, independent writing, spoken speaking, and pronunciation remain not assessed in this diagnostic.
