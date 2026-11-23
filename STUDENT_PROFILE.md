@@ -15,21 +15,28 @@ Reach C2 in General American English for communication, work, travel, and educat
 | Task | Result | Interpretation |
 |---|---:|---|
 | Basic vocabulary translation | 8/8 (100%) | All tested words recognized/produced correctly |
-| `am / is / are` selection | 4/4 (100%) | All tested choices correct |
+| am / is / are selection | 4/4 (100%) | All tested choices correct |
 | Translation of simple sentences | 4/4 (100%) | All four meanings understood |
 | Short reading comprehension | 5/5 (100%) | All factual questions answered correctly |
 
 These are task scores, not CEFR skill ratings. The sample is small and beginner-level.
 
+## Lesson 001–002 evidence
+- Lesson 001: practised personal introductions and affirmative forms of to be.
+- Lesson 002: be-question formation (5/5), short answers (5/5 on the second controlled set), do/does question choice (5/5), negative-form mini-check (4/4), and written role-play (6/6).
+- Lesson 002 errors: coffe instead of coffee; He don't instead of He doesn't. Both were corrected and explained.
+- Strong current lesson evidence: controlled yes/no questions and short answers.
+- Continue practising third-person singular agreement and spelling accuracy.
+
 ## Skill assessment
 | Skill | Status |
 |---|---|
-| Grammar | Limited evidence: beginner `be` forms tested; broader level not assessed |
-| Vocabulary | Limited evidence: 8 basic words tested |
+| Grammar | Limited beginner evidence: be, yes/no questions, short answers, and basic negatives tested |
+| Vocabulary | Limited evidence: initial 8 basic words plus Lesson 002 vocabulary |
 | Reading | Limited evidence: one short A1-style text |
-| Writing | Not assessed |
+| Writing | Short controlled answers and role-play assessed; extended writing not assessed |
 | Listening | Not assessed |
-| Speaking | Not assessed |
+| Speaking | Not assessed; written role-play is not a speaking assessment |
 | Pronunciation | Not assessed |
 
 Do not assign percentages to untested skills. Establish reliable skill scores through dedicated assessments.
